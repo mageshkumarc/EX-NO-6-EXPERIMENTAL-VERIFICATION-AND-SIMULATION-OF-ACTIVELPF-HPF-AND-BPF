@@ -66,6 +66,9 @@ S2 + 1.414 s + 1
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
 
+![WhatsApp Image 2025-12-04 at 12 36 55_cf282226](https://github.com/user-attachments/assets/fff84698-eaab-4153-8dca-b90414e84aba)
+
+
 ![WhatsApp Image 2025-12-03 at 19 55 59_d0462e7d](https://github.com/user-attachments/assets/cb600b7a-ec53-4444-acbc-ee073c012809)
 
 
@@ -149,6 +152,9 @@ S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+
+![WhatsApp Image 2025-12-04 at 12 36 55_cf282226](https://github.com/user-attachments/assets/9dd2d590-05a8-4dcc-a794-d6aaa832e630)
+
 
 ![WhatsApp Image 2025-12-03 at 19 58 18_f8421c85](https://github.com/user-attachments/assets/fca109da-803d-4906-95f5-f302434e7bca)
 
@@ -234,6 +240,8 @@ Pass band Gain=4
 Now		Ao = 1 + (Rf / R1) 2-1=(Rf / Ri)
 Ri = Rf
 Let Ri = Rf = 10 KΩ
+
+![WhatsApp Image 2025-12-04 at 12 39 28_0be6d5bf](https://github.com/user-attachments/assets/cb51327f-e811-45ea-83bc-9eb21342a68f)
 
 ![WhatsApp Image 2025-12-03 at 20 00 47_c20b5229](https://github.com/user-attachments/assets/6782275a-8423-4013-a538-cd0005847dc3)
 
